@@ -1,6 +1,6 @@
 <h1 align="center"><b>╚»𝐓𝐃𝐍™«╝✘❰𝐒𝐏𝐀𝐌❱</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐒𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐓𝐃𝐍_𝐍𝐄𝐓𝐖𝐎𝐑𝐊</h4>
+<h4 align="center">  𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐒𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐓𝐃𝐍_𝐍𝐄𝐓𝐖𝐎𝐑𝐊 </h4>
 
 <p align="center"><a href="https://t.me/PyXen"><img src="https://graph.org/file/034db9f774d1ff22a52cf.jpg" width="400"></a></p>
 
