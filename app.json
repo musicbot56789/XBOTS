@@ -1,6 +1,6 @@
 {
-    "name": "AXEN HERE.",
-    "logo": "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg",
+    "name": "https:.",
+    "logo": "https://graph.org/file/034db9f774d1ff22a52cf.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/ItZxSTaR/XBOTS",
+    "repository": "https://graph.org/file/e6899bf92bc6cc628fbf7.jpg",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
