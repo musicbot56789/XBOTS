@@ -2,7 +2,7 @@
 
 <h4 align="center">  𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐒𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐓𝐃𝐍_𝐍𝐄𝐓𝐖𝐎𝐑𝐊 </h4>
 
-<p align="center"><a href="https://t.me/PyXen"><img src="https://graph.org/file/034db9f774d1ff22a52cf.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/PyXen"><img src="https://graph.org/file/e6899bf92bc6cc628fbf7.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op ╚»𝐓𝐃𝐍™«╝✘❰𝐒𝐏𝐀𝐌❱. That is the greatest pleasure we have !
